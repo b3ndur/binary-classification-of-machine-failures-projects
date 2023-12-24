@@ -1,0 +1,5 @@
+1. https://www.kaggle.com/code/manishkumar7432698/pse17-feature-engineering-tuning-optuna
+2. https://www.kaggle.com/code/tetsutani/ps3e17-eda-ensemble-ml-pipeline-shap#One-Model-Xgboost
+3. https://www.kaggle.com/code/yantxx/xgboost-binary-classifier-machine-failure#Initial-Analysis
+4. https://www.kaggle.com/code/miladziekanowska/machine-failure-eda-and-modeling#⚙%EF%B8%8F-Feature-engineering
+5. https://www.kaggle.com/datasets/dineshmanikanta/machine-failure-predictions
